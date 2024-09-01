@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "762111005775",
+    "project_id": "gaming-store-7b5c1",
+    "storage_bucket": "gaming-store-7b5c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762111005775:android:869899b35217ce7be2063a",
+        "android_client_info": {
+          "package_name": "com.example.gamingstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762111005775-cggtc7635qd0c0bjjbs8ehkjtg569rgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmVkmIiLC4tZTOTmNry-iyGE9fZjQxMQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762111005775-cggtc7635qd0c0bjjbs8ehkjtg569rgf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "762111005775-aeigcub0rrmsp4m7mqp90tqepcarkb3v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gamingstore"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

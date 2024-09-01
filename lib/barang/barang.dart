@@ -1,0 +1,34 @@
+class Barang {
+  static const barang1 = 'assets/images/1.jpeg';
+  static const barang2 = 'assets/images/2.jpeg';
+  static const barang3 = 'assets/images/3.jpeg';
+  static const barang4 = 'assets/images/4.jpeg';
+  static const barang5 = 'assets/images/5.jpeg';
+  static const barang6 = 'assets/images/6.jpeg';
+  static const barang7 = 'assets/images/7.jpeg';
+  static const barang8 = 'assets/images/8.jpeg';
+  static const barang9 = 'assets/images/9.jpeg';
+  static const barang10 = 'assets/images/10.jpeg';
+  static const barang11 = 'assets/images/11.jpeg';
+  static const barang12 = 'assets/images/12.jpeg';
+  static const barang13 = 'assets/images/13.jpeg';
+  static const barang14 = 'assets/images/14.jpeg';
+  static const barang15 = 'assets/images/15.jpeg';
+  static const barang16 = 'assets/images/16.jpeg';
+  static const barang17 = 'assets/images/17.jpeg';
+  static const barang18 = 'assets/images/18.jpeg';
+  static const barang19 = 'assets/images/19.jpeg';
+  static const barang20 = 'assets/images/20.jpeg';
+  static const barang21 = 'assets/images/21.jpeg';
+  static const barang22 = 'assets/images/22.jpeg';
+  static const barang23 = 'assets/images/23.jpeg';
+  static const barang24 = 'assets/images/24.jpeg';
+  static const barang25 = 'assets/images/25.jpeg';
+  static const barang26 = 'assets/images/26.jpeg';
+  static const barang27 = 'assets/images/27.jpeg';
+  static const barang28 = 'assets/images/28.jpeg';
+  static const barang29 = 'assets/images/29.jpeg';
+  static const barang30 = 'assets/images/30.jpeg';
+  static const barang31 = 'assets/images/31.jpeg';
+  static const barang32 = 'assets/images/32.jpeg';
+}
